@@ -32,5 +32,5 @@ if st.button("Predict type of Iris"):
 st.text('')
 st.text('')
 st.markdown(
-    '`Create by` [santiviquez](https://linkedin.com/in/tertiusadjaoke) | \
+    '`Create by` [Tertius Adjaoke](https://linkedin.com/in/tertiusadjaoke) | \
          `Code:` [GitHub](https://github.com/Suitret/iris-app)')
